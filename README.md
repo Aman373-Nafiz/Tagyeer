@@ -228,5 +228,5 @@ flutter clean && flutter pub get
 ---
 
 ## 👨‍💻 Author
-
+Aman Bin Azad
 Built for **Taghyeer Technologies** Flutter Developer Technical Assignment.
